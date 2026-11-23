@@ -1,0 +1,38 @@
+name: Bug report
+about: Report a reproducible problem in files or functionality that currently exist
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Campus Connect. The project is early-stage and has no working application yet. Please report an issue you can reproduce in the existing repository; use a feature request for proposed functionality.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem and its impact.
+      placeholder: A clear, concise description of the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce it?
+      description: Include the relevant file, page, or steps. Do not include secrets or private information.
+      placeholder: Steps to reproduce the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: Explain what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add relevant screenshots or context, if useful. Remove personal or sensitive information before posting.
+    validations:
+      required: false
