@@ -1,0 +1,36 @@
+name: Feature request
+about: Propose a capability or improvement for community discussion
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature ideas are proposals for discussion, not commitments or existing functionality. For substantial proposals, describe the need and invite discussion before implementation.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What need or problem should this address?
+      description: Describe who is affected and why this matters, without including personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What are you proposing?
+      description: Outline a possible outcome. You do not need to prescribe a technical solution.
+    validations:
+      required: true
+  - type: textarea
+    id: considerations
+    attributes:
+      label: Important considerations
+      description: Note relevant accessibility, privacy, moderation, safety, or maintenance considerations.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or open questions
+      description: Share alternatives considered or questions the community should discuss.
+    validations:
+      required: false
