@@ -1,5 +1,5 @@
 name: Feature request
-about: Propose a capability or improvement for community discussion
+description: Propose a capability or improvement for community discussion
 labels: [enhancement]
 body:
   - type: markdown
