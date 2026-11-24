@@ -1,5 +1,5 @@
 name: Documentation improvement
-about: Suggest a correction, clarification, or addition to project documentation
+description: Suggest a correction, clarification, or addition to project documentation
 labels: [documentation]
 body:
   - type: textarea
