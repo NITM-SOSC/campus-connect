@@ -1,6 +1,6 @@
 ## Summary
 
-<!-- Describe what changed and why. -->
+<!-- Describe what changed, why it was needed, and how it improves the project. -->
 
 ## Related issue
 
@@ -14,14 +14,26 @@
 - [ ] Maintenance
 - [ ] Other (describe below)
 
+## Changes made
+
+<!-- List the main changes introduced in this PR. -->
+
+-
+
 ## Testing performed
 
-<!-- List checks you ran and their results. For documentation, check rendering and links. If not applicable, say why. -->
+<!-- Describe the checks you ran and their results. For documentation, check rendering and links. If not applicable, explain why. -->
 
 ## Documentation impact
 
 - [ ] Documentation added or updated
 - [ ] No documentation change needed (explain below)
+
+<!-- Explain any documentation-related decisions if necessary. -->
+
+## Screenshots (if applicable)
+
+<!-- Add screenshots for UI changes. Otherwise, write "Not applicable". -->
 
 ## Contributor checklist
 
