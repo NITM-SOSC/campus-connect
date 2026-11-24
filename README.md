@@ -22,6 +22,8 @@ Campus information, activities, learning resources, and opportunities to collabo
 The following are areas for discussion and future planning, **not implemented features**:
 
 - Student authentication and profiles.
+- Shared moderated spaces.
+- Versatile resource sharing
 - Campus announcements.
 - Events and registrations.
 - Student communities and clubs.
