@@ -1,5 +1,5 @@
 name: Bug report
-about: Report a reproducible problem in files or functionality that currently exist
+description: Report a reproducible problem in files or functionality that currently exist
 labels: bug
 body:
   - type: markdown
